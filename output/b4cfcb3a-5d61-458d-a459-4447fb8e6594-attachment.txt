@@ -1,0 +1,4 @@
+只在整个。py模块前执行一次
+setup_function 每个用例前都会执行
+test_one
+teardown_function 每个用例之后都会执行

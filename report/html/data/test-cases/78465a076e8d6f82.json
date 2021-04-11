@@ -1,0 +1,56 @@
+{
+  "uid" : "78465a076e8d6f82",
+  "name" : "test_eval[2+4-6]",
+  "fullName" : "test_expectation#test_eval",
+  "historyId" : "acb6b09e1f9f68e7e23141efec9ef66e",
+  "time" : {
+    "start" : 1618111711558,
+    "stop" : 1618111711558,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_expectation"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "77635-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_expectation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected",
+    "value" : "6"
+  }, {
+    "name" : "test_input",
+    "value" : "'2+4'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78465a076e8d6f82.json",
+  "parameterValues" : [ "6", "'2+4'" ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "69bc3dcb0b9168ed",
+  "name" : "test_function",
+  "fullName" : "test_skip#test_function",
+  "historyId" : "c64dabb6988d5a86a6cbf87d08a33294",
+  "time" : {
+    "start" : 1618111711607,
+    "stop" : 1618111711608,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(False, reason='requires python3.6 or higher')"
+  }, {
+    "name" : "suite",
+    "value" : "test_skip"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "77635-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_skip"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skipif(False, reason='requires python3.6 or higher')" ]
+  },
+  "source" : "69bc3dcb0b9168ed.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid" : "247a5571f8004ec9",
+  "name" : "test_eval[8-5-1]",
+  "fullName" : "test_canshu1#test_eval",
+  "historyId" : "4a12590d2ed0e13a793204cee0b5855e",
+  "time" : {
+    "start" : 1618111711476,
+    "stop" : 1618111711476,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_canshu1"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "77635-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_canshu1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "x",
+    "value" : "1"
+  }, {
+    "name" : "y",
+    "value" : "5"
+  }, {
+    "name" : "z",
+    "value" : "8"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "247a5571f8004ec9.json",
+  "parameterValues" : [ "1", "5", "8" ]
+}
